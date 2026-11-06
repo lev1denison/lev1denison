@@ -1,4 +1,14 @@
-## Hi there 👋
+<div align="center">
+
+Hi, I'm Victor 👋
+
+Data Analytics · Data Science · Data Engineering · AI Engineering
+
+Data Analytics @ Denison University · Graduating May 2027
+
+LinkedIn · Email · GitHub
+
+</div>
 
 <!--
 **lev1denison/lev1denison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
