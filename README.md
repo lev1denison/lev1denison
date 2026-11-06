@@ -34,4 +34,6 @@
 
 <br>
 
-<img src="Frog Vibing GIF by LINE FRIENDS.gif" width="600"/>
+<div align="center">
+  <img src="Frog Vibing GIF by LINE FRIENDS.gif" width="600"/>
+</div>
